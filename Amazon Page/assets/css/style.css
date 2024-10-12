@@ -155,10 +155,11 @@ footer {
     text-align: center;
     font-weight: 500;
     padding: 16px;
+    margin-top: 32px;
 
 }
 footer a {
-    margin-top: 32px;
+    
     color: white;
 }
 .close{
